@@ -6,9 +6,8 @@
 
 
 
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+<script src="https://kit.fontawesome.com/0b511368b1.js" crossorigin="anonymous"></script>
+<i class="fa-brands fa-angular"></i>
 <body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
@@ -101,7 +100,6 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
     </center>
 </body>
-
 
 
 <!---
