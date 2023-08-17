@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/soorajkputhanveedu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soorajkputhanveedu/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22404119/codewithsooraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22404119/codewithsooraj" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_s___r__.j_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_s___r__.j_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/_crazzypilot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_crazzypilot" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@_CRAZZYPILOT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_crazzypilot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
