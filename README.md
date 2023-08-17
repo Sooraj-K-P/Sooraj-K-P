@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Django Projects**
 
-- 👨‍💻 All of my projects are available at [vvv](vvv)
+- 👨‍💻 All of my projects are available here .
 
 - 📝 I wish to write articles 
 
@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **codewithsoorajpkd@gmail.com**
 
-- 📄 Know about my experiences GitHub
+- 📄 Know about my experiences via Linkedin I mentioned below
 
-- ⚡ Fun fact about life is - "Everything Is Connected"
+- ⚡ Fun fact is - "Everything Is Connected"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
