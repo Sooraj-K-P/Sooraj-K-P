@@ -15,15 +15,15 @@
 
 - 👨‍💻 All of my projects are available at [vvv](vvv)
 
-- 📝 I regularly write articles on [vvv](vvv)
+- 📝 I wish to write articles 
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **codewithsoorajpkd@gmail.com**
 
-- 📄 Know about my experiences [vvv](vvv)
+- 📄 Know about my experiences GitHub
 
-- ⚡ Fun fact **vvv**
+- ⚡ Fun fact about life is - "Everything Is Connected"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
