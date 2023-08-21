@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Django Projects**
 
-- 👨‍💻 All of my projects are available here .
+- 👨‍💻 All of my projects are available here 
 
 - 📝 I wish to write articles 
 
