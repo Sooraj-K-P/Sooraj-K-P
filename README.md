@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **codewithsoorajpkd@gmail.com**
+- 📫 How to reach me **codewithsoorajpkd@gmail.com**  
 
 - 📄 Know about my experiences via Linkedin I mentioned below
 
