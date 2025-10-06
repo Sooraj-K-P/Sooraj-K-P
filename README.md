@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/soorajkp1996" target="blank"><img src="https://img.shields.io/twitter/follow/soorajkp1996?logo=twitter&style=for-the-badge" alt="soorajkp1996" /></a> </p>
 
-- 🔭 I’m currently working on **Angular Project**
+- 🔭 I’m currently working on **FastAPI Project**
 
-- 🌱 I’m currently learning **Angular Pipes**
+- 🌱 I’m currently learning **React + FastAPI **
 
-- 👯 I’m looking to collaborate on **Django Projects**
+- 👯 I’m looking to collaborate on **Python Projects**
 
 - 👨‍💻 All of my projects are available here 
 
